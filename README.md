@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kshirsagar</h1>
-<h3 align="center">A passionate Frontend Developer and UIX Designer from India.</h3> 
+<h3 align="center">A passionate Frontend Developer and Web & UIX Designer from India.</h3> 
 <h3 align="center">Deals in Frontend Technologies, Wireframing, Prototyping and Designing Tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahber-hussain83&label=Profile%20views&color=0e75b6&style=flat" alt="rahber-hussain83" /> </p><br>
